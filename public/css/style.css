@@ -31,6 +31,7 @@ body {
 .hero {
 	position: relative;
 	height: 100vh;
+	height: 100svh; /* Override if supported */
 	width: 100vw;
 	overflow: hidden;
 	z-index: 1;
@@ -47,17 +48,17 @@ body {
 }
 
 .hero-content h1 {
-	font-size: 5em;
+	font-size: 5rem;
 	padding: 0 0 25px 0;
 	margin: 0;
 }
 
 .hero-content h2 {
-	font-size: 2.2em;
+	font-size: 2.2rem;
 }
 
 .hero-content p {
-	font-size: 1.3em;
+	font-size: 1.3rem;
 }
 
 .hero-content h2,
@@ -72,7 +73,7 @@ body {
 	background-color: #ff914d;
 	padding: 10px 25px;
 	color: white;
-	font-size: 1em;
+	font-size: 1rem;
 	cursor: pointer;
 	transition: background-color, transform 0.2s ease-in-out;
 }
@@ -148,7 +149,7 @@ body {
 }
 
 .projects-main h1 {
-	font-size: 4.5em;
+	font-size: 4.5rem;
 	color: white;
 	padding: 0 0 25px 0;
 }
@@ -188,7 +189,7 @@ body {
 }
 
 .project-card h2 {
-	font-size: 1.3em;
+	font-size: 1.3rem;
 	padding: 0 0 10px 0;
 }
 
@@ -240,7 +241,7 @@ body {
 	background-color: #0d2836;
 	padding: 10px 25px;
 	color: white;
-	font-size: 1em;
+	font-size: 1rem;
 	cursor: pointer;
 	transition: background-color, transform 0.2s ease-in-out;
 }
@@ -258,7 +259,7 @@ body {
 }
 
 .skills-main h1 {
-	font-size: 4.5em;
+	font-size: 4.5rem;
 	color: black;
 	padding: 0 0 25px 0;
 }
