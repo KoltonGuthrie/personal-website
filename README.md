@@ -26,7 +26,7 @@ This site showcases my projects, skills, and background as a software/web develo
 - **Frontend:**  
   - HTML5, CSS3 (custom, with [AOS](https://github.com/michalsnik/aos) for animations)
   - JavaScript (Vanilla)
-  - [Typer.js](https://github.com/CodeByZach/typer) for typing animation
+  - [Typer.js](https://github.com/straversi/Typer.js) for typing animation
 
 - **Build Tools:**  
   - [Vite](https://vitejs.dev/) for fast development and builds
