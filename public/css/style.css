@@ -154,6 +154,18 @@ body {
 	z-index: 2;
 }
 
+.projects-main::before {
+	content: '';
+    position: absolute;
+    top: -25px;
+    left: -5vw;
+    width: 110svw;
+    height: 75px;
+    background: linear-gradient(#002439, #004f66);
+    filter: blur(10px);
+    z-index: 1;
+}
+
 .projects-main h1 {
 	font-size: 4.5rem;
 	color: white;
