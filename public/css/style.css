@@ -66,8 +66,14 @@ body {
 	margin: 0;
 }
 
-.hero-content button {
+.hero-buttons {
 	margin: 50px 0 0 0;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px 15px;
+}
+
+.hero-content button {
 	border-radius: 10px;
 	border-style: none;
 	background-color: #ff914d;
