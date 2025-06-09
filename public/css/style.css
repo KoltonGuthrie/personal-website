@@ -164,6 +164,7 @@ body {
     background: linear-gradient(#002439, #004f66);
     filter: blur(10px);
     z-index: 1;
+	overflow-x: hidden;
 }
 
 .projects-main h1 {
