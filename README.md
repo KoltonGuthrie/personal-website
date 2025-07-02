@@ -30,7 +30,6 @@ This site showcases my projects, skills, and background as a software/web develo
 
 - **Build Tools:**  
   - [Vite](https://vitejs.dev/) for fast development and builds
-  - [React](https://react.dev/) (future expansion)
   - [Cloudflare Workers](https://workers.cloudflare.com/) for deployment
 
 ---
